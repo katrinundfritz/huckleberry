@@ -11,6 +11,11 @@ body {
   font-size: 18px;
 }
 
+h1,
+h2 {
+  margin: 0;
+}
+
 strong {
   color: hsl(160deg, 100%, 30%);
 }
